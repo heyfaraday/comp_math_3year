@@ -1,2 +1,1 @@
-# comp_math_3year
-😛 Introduction to computational mathematics
+# 😛 Introduction to computational mathematics
